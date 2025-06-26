@@ -1,0 +1,5 @@
+--index-url https://pypi.org/simple
+fastapi
+uvicorn
+openai
+python-dotenv
